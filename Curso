@@ -12,6 +12,13 @@
  </body>  
  </html>  
 //Angel Yepez//
+ {  
+     //si no ponemos parseFloat concatenaría x con y  
+     suma=parseFloat(x)+parseFloat(y);  
+     text= suma;  
+   }  
+   document.getElementById("sumando").innerHTML = text;  
+ }  
 //Martin Guerrero//
 //John Franco//
 // Jael Cevallos//
