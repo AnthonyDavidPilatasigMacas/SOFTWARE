@@ -2,7 +2,13 @@
 //Marlon Quijije//
 <!DOCTYPE html>  
  <html>  
- <body>  
+ <body> 
+ <h1>Sumar dos números</h1>  
+ <p>Por favor, introduce dos números:</p>  
+ <input id="num1"><br>  
+ <input id="num2">  
+ <button type="button" onclick="myFunction()">Sumar</button>  
+ <p id="sumando"></p>
  </body>  
  </html>  
 //Angel Yepez//
@@ -10,4 +16,3 @@
 //John Franco//
 // Jael Cevallos//
 //Brenda Estrella//
-//Monge Daniela//
